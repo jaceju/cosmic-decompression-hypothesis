@@ -188,7 +188,135 @@ Potential research questions include:
 
 ---
 
-## 9. License / 授權
+## 9. Speculative Extensions / 延伸假想
+
+**EN:**
+The following section explores imaginative extensions of the Cosmic Decompression Hypothesis, applying its logic to some of the most challenging mysteries in modern physics.
+These ideas are speculative, intended to inspire new ways of thinking about known problems.
+
+**中文：**
+以下內容嘗試以「宇宙解壓假說」的邏輯去重新思考當代物理中最棘手的謎題。
+這些觀點純屬推想，旨在激發對既有問題的新思維方向。
+
+---
+
+### 9.1 Dark Matter and Dark Energy / 暗物質與暗能量
+
+**EN:**
+Dark matter and dark energy may represent different phases of the decompression process.
+Dark matter corresponds to information that is partially decompressed — stable enough to exert gravitational influence but not yet visible.
+Dark energy, on the other hand, is the varying rate of decompression itself, manifesting as accelerated cosmic expansion.
+
+**中文：**
+暗物質與暗能量可能是解壓過程的不同階段。
+暗物質是尚未完全展開的資訊區域，穩定到能產生引力效應但仍不可見。
+暗能量則是解壓速率的變化本身，表現在宇宙膨脹的加速現象上。
+
+---
+
+### 9.2 Quantum Entanglement / 量子糾纏
+
+**EN:**
+Entangled particles share the same segment of the information plane.
+When one particle is observed, the corresponding segment of compressed data is decompressed simultaneously for both, explaining the instantaneous correlation without superluminal communication.
+
+**中文：**
+糾纏粒子共享資訊平面的同一區段。
+當其中一個被觀測時，該區段的壓縮資訊會同時被展開，因此產生無需超光速傳遞的同步關聯。
+
+---
+
+### 9.3 Arrow of Time / 時間箭頭
+
+**EN:**
+Time’s direction emerges from the sequential nature of decompression.
+Entropy increase is simply the measure of how far information has unfolded.
+Past, present, and future coexist in the compressed state; time is merely the index of the decompression sequence.
+
+**中文：**
+時間的方向來自解壓過程的執行順序。
+熵的增加只是資訊展開程度的度量。
+在壓縮狀態中，過去、現在與未來同時存在；時間僅是解壓序列的索引。
+
+---
+
+### 9.4 Black Holes / 黑洞
+
+**EN:**
+Black holes function as recompression nodes.
+They do not destroy information but repackage it back into the information plane.
+Hawking radiation represents checksum leakage during this process, maintaining global information balance.
+
+**中文：**
+黑洞是再壓縮節點，並非摧毀資訊，而是將其重新封裝回資訊平面。
+霍金輻射則是此過程中資訊檢查碼的洩漏，用以維持整體資訊守恆。
+
+---
+
+### 9.5 Observation and Consciousness / 觀測與意識
+
+**EN:**
+Observation triggers localized high-resolution decompression.
+Consciousness can be viewed as a recursive decompression function — a process where the universe observes itself and refines its own data expansion.
+
+**中文：**
+觀測行為會觸發局部的高解析度解壓。
+意識可被視為一種遞迴的解壓函數，宇宙透過觀察自身來精化其資料展開。
+
+---
+
+### 9.6 Gravity as Information Curvature / 引力作為資訊曲率
+
+**EN:**
+Gravity arises from gradients in decompression speed.
+Regions of high informational density decompress more slowly, bending trajectories of energy flow — what we perceive as spacetime curvature.
+
+**中文：**
+引力源於解壓速率的梯度差。
+資訊密度高的區域解壓較慢，使能量流路徑彎曲，也就是我們觀測到的時空曲率。
+
+---
+
+### 9.7 Unification and Compression Mapping / 統一場與壓縮映射
+
+**EN:**
+All fundamental forces may be different phases of a single decompression function.
+In mathematical form:
+\[
+\Phi(x) = D(F_c, \mu)
+\]
+where \(F_c\) represents compression rules, \(\mu\) the decompression medium, and \(D\) the unfolding operator.
+
+**中文：**
+所有基本作用力可能都是同一個解壓函數的不同相位。
+以數學形式表示：
+\[
+\Phi(x) = D(F_c, \mu)
+\]
+其中 \(F_c\) 為壓縮規則，\(\mu\) 為解壓介質，\(D\) 為展開運算子。
+
+---
+
+### 9.8 Final Equilibrium / 最終平衡態
+
+**EN:**
+When all information has been fully decompressed, the universe reaches a static holographic state — absolute informational equilibrium.
+This may coincide with the so-called heat death: a complete return of decompressed data to the source plane.
+
+**中文：**
+當所有資訊完全解壓後，宇宙將進入靜態全息狀態——資訊的最終平衡。
+這可能對應於所謂的熱寂：所有展開資訊回歸源平面的最終壓縮事件。
+
+---
+
+**EN:**
+These extensions are imaginative rather than definitive, yet they illustrate how an information-based cosmology could unify disparate puzzles of physics into a single narrative framework.
+
+**中文：**
+這些延伸純屬想像，但它們展示了一種可能：以資訊為基礎的宇宙觀能將分散的物理謎題統合成一個敘事框架。
+
+
+## 10. License / 授權
 
 This work is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 本作品採用 [創用 CC 姓名標示 4.0 國際版授權條款](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)。
